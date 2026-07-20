@@ -269,6 +269,12 @@ nav.links a:hover::after {
   height: 460px;
   object-fit: cover;
 }
+
+.hero-photo video {
+  width: 100%;
+  height: 460px;
+  object-fit: cover;
+}
 .hero-badge {
   position: absolute;
   z-index: 3;
